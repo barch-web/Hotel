@@ -1,0 +1,6 @@
+{
+  "name": "Admos Hotel and Suites",
+  "description": "Official hospitality booking platform for Admos Hotel and Suites, Imota–Igbokuta Road, Imota, Lagos, Nigeria. Reserve luxury suites, book the swimming pool, and enquire about modern event hall hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
